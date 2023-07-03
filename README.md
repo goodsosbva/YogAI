@@ -14,3 +14,7 @@
 ![image](https://user-images.githubusercontent.com/62534722/197383463-b490781d-389a-4e0b-af80-d93c9fcaa9ea.png)
 ![image](https://user-images.githubusercontent.com/62534722/197383487-05583fc1-9605-43db-abef-eab4815a0b5a.png)
 ![image](https://user-images.githubusercontent.com/62534722/197383501-88141d9a-0b13-4b9f-a6f7-5d5a608d0f46.png)
+
+**시연 영상**
+---
+https://github.com/goodsosbva/YogAI/blob/main/%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81.mp4
