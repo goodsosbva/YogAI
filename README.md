@@ -1,4 +1,4 @@
-# YogA!
+# YogAI
 
 ![image](https://user-images.githubusercontent.com/62534722/197383065-a560e73f-a6bd-4bf6-bf12-b6f46114a53e.png)
 ![image](https://user-images.githubusercontent.com/62534722/197383089-9fa649ac-2c28-465d-b1ae-14b528274d39.png)
